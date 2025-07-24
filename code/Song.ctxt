@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Song
+comment1.params=title\ filePath
+comment1.target=Song(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=
+comment3.target=java.lang.String\ getFilePath()
+numComments=4

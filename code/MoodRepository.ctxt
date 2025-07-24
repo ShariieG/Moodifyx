@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MoodRepository
+comment1.params=
+comment1.target=MoodRepository()
+comment2.params=
+comment2.target=void\ initializeMoodSongs()
+comment3.params=mood\ files
+comment3.target=void\ addMood(java.lang.String,\ java.lang.String[])
+comment4.params=fileName
+comment4.target=java.lang.String\ formatTitle(java.lang.String)
+comment5.params=mood
+comment5.target=java.util.List\ getSongsForMood(java.lang.String)
+comment6.params=
+comment6.target=java.util.Set\ getAllMoods()
+numComments=7
