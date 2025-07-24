@@ -69,5 +69,10 @@ To detect a mood using text, simply type words like "happy", "moody", or "chill"
 
 ---
 
-## 🧑‍💻 Author
+## 💡 Graphic User Interface
+<img width="984" height="742" alt="Screenshot 2025-07-24 150648" src="https://github.com/user-attachments/assets/269e4aa3-3ead-466a-8cdb-01f47c212edc" />
+
+
+---
+# 🧑‍💻 Author
 Developed by Sharon Galela — a passionate developer with experience in Java, Swing, and creative projects like Moodifyx 🎶
